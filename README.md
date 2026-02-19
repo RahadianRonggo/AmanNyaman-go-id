@@ -206,7 +206,6 @@ private val BASE_URL = "[http://10.0.2.2:8000/](http://10.0.2.2:8000/)"
 
 ## 🎨 System Screenshots
 
-*(Ganti link di bawah dengan screenshot asli aplikasi Anda)*
 
 | Web: Dashboard | Web: Malware Lab | Mobile: Sync Dashboard |
 | :---: | :---: | :---: |
@@ -217,7 +216,7 @@ private val BASE_URL = "[http://10.0.2.2:8000/](http://10.0.2.2:8000/)"
 ## 👨‍💻 Author
 
 **[Rahadian Ronggo Kusumo]**
-*Taruna/Mahasiswa - Politeknik Siber dan Sandi Negara*
-*Program Studi Keamanan Siber*
+*Taruna- Politeknik Siber dan Sandi Negara*
+*Program Studi Rekayasa Keamanan Siber*
 
 > *"Securing the Future, One Byte at a Time."* 🔐📱
